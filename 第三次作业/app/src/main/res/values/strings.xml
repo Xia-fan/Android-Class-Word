@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rally</string>
+    <string name="total">total</string>
+    <string name="due">due</string>
+    <string name="account_redacted">account_redacted</string>
+    <string name="accounts">accounts</string>
+    <string name="bills">bills</string>
+    <string name="see_all">see_all</string>
+</resources>
