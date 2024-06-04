@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="item_entry_title">Item Entry Title</string>
+    <string name="no_item_description">No Item Description\n</string>
+    <string name="in_stock">In Stock</string>
+    <string name="item_detail_title">Item Detail Title</string>
+    <string name="edit_item_title">Edit Item Title</string>
+    <string name="sell">Sell\n</string>
+    <string name="delete">Delete</string>
+    <string name="item">Item</string>
+    <string name="quantity_in_stock">Quantity In Stock</string>
+    <string name="price">Price</string>
+    <string name="attention">Attention</string>
+    <string name="delete_question">Delete Question</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="save_action">Save Action</string>
+    <string name="item_name_req">Item Name Req</string>
+    <string name="item_price_req">Item Price Req</string>
+    <string name="quantity_req">Quantity Req</string>
+    <string name="required_fields">Required Fields</string>
+    <string name="Back">Back</string>
+</resources>
